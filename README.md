@@ -14,17 +14,35 @@ Analyse de l'évolution de l'espérance de vie dans les 15 pays de la CEDEAO ent
 - **World Bank** : PIB, dépenses santé, alphabétisation, mortalité infantile
 
 ## 🗂️ Structure
+```
+esperance-vie-afrique-ouest/
+├── data/
+│   ├── raw/          # Données brutes
+│   ├── clean/        # Données nettoyées
+│   └── final/        # Dataset final
+├── scripts/          # Scripts Python
+├── visualisations/   # Graphiques
+└── analyse.ipynb     # Jupyter Notebook principal
+```
 
+## 🚀 Installation
+```bash
+pip install pandas numpy matplotlib seaborn plotly requests beautifulsoup4 lxml
+jupyter lab
+```
 
+## 📈 Utilisation
+Ouvrir `analyse.ipynb` dans Jupyter Lab et exécuter les cellules dans l'ordre.
 
-cat > requirements.txt << 'EOF'
-pandas>=2.0.0
-numpy>=1.24.0
-matplotlib>=3.7.0
-seaborn>=0.12.0
-plotly>=5.14.0
-requests>=2.31.0
-beautifulsoup4>=4.12.0
-lxml>=4.9.0
-jupyterlab>=4.0.0
-kaleido>=0.2.1
+## 📊 Visualisations
+1. Carte de l'espérance de vie 2023
+2. Évolution temporelle (Top 5 pays)
+3. Comparaison par pays
+4. Corrélation PIB/Espérance de vie
+5. Heatmap décennale
+
+## 👤 Auteur
+Chahida Ghit - École Centrale Casablanca
+
+## 📅 Date
+Novembre 2025
