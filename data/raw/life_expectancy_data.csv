@@ -1,0 +1,91 @@
+pays,pays_code,annee,esperance_vie
+Nigeria,NGA,2000,46.5
+Nigeria,NGA,2005,49.0
+Nigeria,NGA,2010,51.0
+Nigeria,NGA,2015,52.5
+Nigeria,NGA,2020,53.8
+Nigeria,NGA,2023,54.7
+Ghana,GHA,2000,56.5
+Ghana,GHA,2005,58.5
+Ghana,GHA,2010,60.5
+Ghana,GHA,2015,62.0
+Ghana,GHA,2020,63.5
+Ghana,GHA,2023,64.1
+Senegal,SEN,2000,58.5
+Senegal,SEN,2005,61.0
+Senegal,SEN,2010,63.5
+Senegal,SEN,2015,65.5
+Senegal,SEN,2020,67.1
+Senegal,SEN,2023,67.9
+Côte d'Ivoire,CIV,2000,50.0
+Côte d'Ivoire,CIV,2005,52.5
+Côte d'Ivoire,CIV,2010,54.5
+Côte d'Ivoire,CIV,2015,56.0
+Côte d'Ivoire,CIV,2020,57.8
+Côte d'Ivoire,CIV,2023,58.6
+Mali,MLI,2000,51.0
+Mali,MLI,2005,53.0
+Mali,MLI,2010,55.0
+Mali,MLI,2015,56.5
+Mali,MLI,2020,58.0
+Mali,MLI,2023,58.5
+Burkina Faso,BFA,2000,52.0
+Burkina Faso,BFA,2005,54.0
+Burkina Faso,BFA,2010,56.0
+Burkina Faso,BFA,2015,57.5
+Burkina Faso,BFA,2020,59.3
+Burkina Faso,BFA,2023,59.8
+Niger,NER,2000,54.0
+Niger,NER,2005,56.0
+Niger,NER,2010,58.0
+Niger,NER,2015,59.5
+Niger,NER,2020,61.1
+Niger,NER,2023,61.6
+Guinea,GIN,2000,52.0
+Guinea,GIN,2005,54.0
+Guinea,GIN,2010,56.0
+Guinea,GIN,2015,57.5
+Guinea,GIN,2020,59.2
+Guinea,GIN,2023,59.8
+Benin,BEN,2000,54.0
+Benin,BEN,2005,56.0
+Benin,BEN,2010,58.0
+Benin,BEN,2015,59.5
+Benin,BEN,2020,61.2
+Benin,BEN,2023,61.8
+Togo,TGO,2000,55.0
+Togo,TGO,2005,56.5
+Togo,TGO,2010,58.0
+Togo,TGO,2015,59.5
+Togo,TGO,2020,61.0
+Togo,TGO,2023,61.6
+Liberia,LBR,2000,55.5
+Liberia,LBR,2005,57.5
+Liberia,LBR,2010,59.5
+Liberia,LBR,2015,61.0
+Liberia,LBR,2020,63.1
+Liberia,LBR,2023,63.7
+Sierra Leone,SLE,2000,52.0
+Sierra Leone,SLE,2005,54.0
+Sierra Leone,SLE,2010,56.0
+Sierra Leone,SLE,2015,57.5
+Sierra Leone,SLE,2020,59.5
+Sierra Leone,SLE,2023,60.1
+Guinea-Bissau,GNB,2000,52.5
+Guinea-Bissau,GNB,2005,54.0
+Guinea-Bissau,GNB,2010,55.5
+Guinea-Bissau,GNB,2015,56.5
+Guinea-Bissau,GNB,2020,57.9
+Guinea-Bissau,GNB,2023,58.4
+Mauritania,MRT,2000,57.0
+Mauritania,MRT,2005,59.0
+Mauritania,MRT,2010,61.0
+Mauritania,MRT,2015,62.5
+Mauritania,MRT,2020,64.3
+Mauritania,MRT,2023,64.9
+Gambia,GMB,2000,55.5
+Gambia,GMB,2005,57.0
+Gambia,GMB,2010,58.5
+Gambia,GMB,2015,60.0
+Gambia,GMB,2020,61.5
+Gambia,GMB,2023,62.1
